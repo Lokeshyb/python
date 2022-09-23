@@ -1,5 +1,5 @@
 # python
-day 1
+#day 1
 isomophic
 sumsquare
 happy number
@@ -10,7 +10,7 @@ vowels are lexicographically sorted
 valid number
 maximum num of guests
 modify string
-day 2
+#day 2
 staircase
 leap year
 max num of words
