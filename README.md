@@ -42,4 +42,15 @@ remove charcter
 count sorted vowel strings      
 roman to integer     
 day seasons     
-scraamble string     
+scraamble string 
+#day5                
+length of the last word            
+bonus on salary          
+perfect square        
+little robert        
+peak elements        
+triangular array        
+longest substring      
+n*n matrix            
+function shuffle       
+reverse words in string        
